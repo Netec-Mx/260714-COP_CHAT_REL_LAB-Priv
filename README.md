@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # COPILOT CHAT EN RELACIONES LABORALES
 
 Este seminario está diseñado para transformar la gestión del equipo de Relaciones Laborales mediante el uso de IA. El programa abarca desde la escritura de instrucciones precisas hasta el análisis de indicadores críticos de personal, la interpretación de normativas legales y la estandarización de procesos internos, asegurando un entorno laboral óptimo, eficiente y alineado con el cumplimiento ético y regulatorio.
@@ -26,8 +28,15 @@ Este seminario está diseñado para transformar la gestión del equipo de Relaci
   - Descripción: Aplicación práctica de consultoría interactiva de la lft para la toma de decisiones utilizando los conceptos del capítulo.
   - Duración estimada: 90 min
 
-## Flujo de colaboración
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+## 📬 **Contacto y más información**
+
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
